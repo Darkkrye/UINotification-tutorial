@@ -127,6 +127,11 @@
 						CreatedOnToolsVersion = 8.0;
 						DevelopmentTeam = WTFD83LSXR;
 						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 0;
+							};
+						};
 					};
 				};
 			};
